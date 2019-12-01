@@ -1,0 +1,13 @@
+E:\Visual studio projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+E:\Visual studio projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+E:\Visual studio projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+E:\Visual studio projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+E:\Visual studio projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
